@@ -1,3 +1,3 @@
 # How-to-make-HANGMAN-GAME-Python
-ALL PLAYLIST (+150 videos) 👉 https://www.youtube.com/c/TurtleCode/playlists
+ALL PLAYLIST 👉 https://www.youtube.com/c/TurtleCode/playlists
 
